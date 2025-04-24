@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban Restrepo</h1>
-<h3 align="center">Full Stack Developer | Blockchain Enthusiast | Tech Explorer</h3>
+<h3 align="center"> Software Engineer | Backend Developer | Blockchain Enthusiast | Tech Explorer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/esteban-restrepo-restrepo-b18354174" target="_blank"> 
@@ -13,7 +13,7 @@
 
 
 ### 💻 About Me
-- 👨‍💻 I'm a Backend Developer and Blockchain Developer from Colombia 🇨🇴.
+- 👨‍💻 I'm a Software Engineer, Backend Developer and Blockchain Developer from Colombia 🇨🇴.
 - 🔭 I’m currently working on scalable apps and decentralized applications focused on cloud infrastructres.
 - 🧠 I'm interested about  **cloud architectures, backend development, clean code, microservices, and blockchain apps**.
 - 💬 Ask me about **Node.js, TypeScript, Solidity, Docker, MongoDB, PostgreSQL**.
